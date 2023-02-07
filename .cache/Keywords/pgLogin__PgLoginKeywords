@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "AE08D580C679F4D24A3B769BB11578FF",
+  "keywordClasses": [
+    {
+      "name": "pgLogin.PgLoginKeywords",
+      "keywordMethods": [
+        {
+          "name": "AppLogin",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
