@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Delhi, India</name>
+   <tag></tag>
+   <elementGuidId>0ee20bab-f82c-4518-af5d-f19b124fd9a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bigsearch-query-location-suggestion-0']/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div._r1t6ga</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ef93c072-bbee-445b-87c5-1ff1044d0fa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_r1t6ga</value>
+      <webElementGuid>059803e2-42db-49bc-b5bf-ad57fa12de15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delhi, India</value>
+      <webElementGuid>8cf28d5a-df55-4f7d-b1da-972a5495e58f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bigsearch-query-location-suggestion-0&quot;)/div[@class=&quot;_1825a1k&quot;]/div[@class=&quot;_r1t6ga&quot;]</value>
+      <webElementGuid>31f93db3-53e9-4be3-b66d-9e187a6ba3dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bigsearch-query-location-suggestion-0']/div[2]/div</value>
+      <webElementGuid>71d8fc9a-b3e7-471c-a3c6-20f42cbfb786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Navigate forward to access suggested results'])[1]/following::div[11]</value>
+      <webElementGuid>c6db54ae-1e9e-4893-87a2-df4b0c0cb7a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Where'])[1]/following::div[11]</value>
+      <webElementGuid>839b6f26-8b5b-4316-9617-fb37e9a1e53a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delhi &amp; NCR Properties, New Ashok Nagar, New Delhi'])[1]/preceding::div[2]</value>
+      <webElementGuid>743256a2-ff3e-4130-906c-18a66643c6ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delhi, NCT of Delhi'])[1]/preceding::div[6]</value>
+      <webElementGuid>d7f1db0e-d85f-48bb-afb9-738d7ee2b273</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Delhi, India']/parent::*</value>
+      <webElementGuid>21abe6ca-e77a-435d-9d19-07a429059b22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div/div[2]/div</value>
+      <webElementGuid>4a2c7ddd-e045-4b2b-8129-1194babd1479</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Delhi, India' or . = 'Delhi, India')]</value>
+      <webElementGuid>ed687625-d949-4956-a816-465da5063ee5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
