@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Sample-TS1</name>
+   <name>TS-Regression</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,30 +10,23 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>d74d33ba-f488-475c-9372-802280e11f30</testSuiteGuid>
+   <testSuiteGuid>8a338355-7825-49c8-9e2e-72e39a0e462f</testSuiteGuid>
    <testCaseLink>
-      <guid>99af1e3e-b047-4971-acdc-79504ead92a7</guid>
+      <guid>ad189aea-811f-4eb5-a715-efd22e64644f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AppointmentBooking</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>fd5c5eff-e3f5-446c-9491-5a695d05e683</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/BookinHC</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>1be33aa3-2885-4bb3-bdd6-764814610e72</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Login</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>8f6da350-571d-46da-861f-96e0c39e1d52</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/TC_Amazon-BK_RCB</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>f906d7f5-232e-4b92-b7c3-7db1b4217094</guid>
+      <guid>2b8cb520-14b5-4384-b959-8ebc47cc7497</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC_Amazon-BK-Manual</testCaseId>
