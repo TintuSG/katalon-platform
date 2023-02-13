@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_By clicking Agree  Join, you agree to the LinkedIn User Agreement, Privacy Policy, and  Cookie Policy</name>
+   <tag></tag>
+   <elementGuidId>ea024046-742c-4302-b490-e9074be8da58</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.join-form__form-body-agreement</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Show'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9ac6e1eb-d71f-41be-868c-8c4dc9abfd30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-is-not-yielded</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>28d1d106-7a00-4bdb-9b59-f275e4dbf645</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>join-form__form-body-agreement</value>
+      <webElementGuid>27bb1ae8-0505-4e73-92c9-cc8f8934f4ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>By clicking Agree &amp; Join, you agree to the LinkedIn User Agreement, Privacy Policy, and  Cookie Policy. </value>
+      <webElementGuid>7db25b97-6a31-4415-9598-21ec741ab399</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;artdeco windows&quot;]/body[1]/div[@class=&quot;page page--is-mercado-theme-enabled&quot;]/main[@class=&quot;main&quot;]/form[@class=&quot;join-form&quot;]/section[@class=&quot;join-form__form-body join-form__form-body--gsi&quot;]/span[@class=&quot;join-form__form-body-agreement&quot;]</value>
+      <webElementGuid>5f28b8bb-a5aa-4700-b549-ae84c0ed29e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show'])[1]/following::span[1]</value>
+      <webElementGuid>1f9984aa-3e23-4e76-b934-f244bc5821cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password (6 or more characters)'])[1]/following::span[1]</value>
+      <webElementGuid>93f576d3-7534-40eb-bc83-1d90b5b66bef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='By clicking Agree &amp; Join, you agree to the LinkedIn']/parent::*</value>
+      <webElementGuid>33223071-8bb4-48ec-9df2-c308fc5c0555</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/span</value>
+      <webElementGuid>d82f12fa-4224-4eec-a4a6-5e2f93b61960</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'By clicking Agree &amp; Join, you agree to the LinkedIn User Agreement, Privacy Policy, and  Cookie Policy. ' or . = 'By clicking Agree &amp; Join, you agree to the LinkedIn User Agreement, Privacy Policy, and  Cookie Policy. ')]</value>
+      <webElementGuid>4d9d6040-c2a7-4393-8267-72f20fd743eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
