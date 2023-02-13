@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('www.linkedin.com')
 
 WebUI.click(findTestObject('LinkedIn/Page_LinkedIn Log In or Sign Up/a_Join now'))
