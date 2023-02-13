@@ -19,17 +19,14 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
+WebUI.navigateToUrl('www.linkedin.com')
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Make Appointment'))
+WebUI.click(findTestObject('LinkedIn/Page_LinkedIn Log In or Sign Up/a_Join now'))
 
-WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Username_username'), UserName)
+WebUI.setText(findTestObject('LinkedIn/Page_Sign Up  LinkedIn/input_Email or phone number_email-or-phone'), 'Admin')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Password_password'), Password)
+WebUI.setEncryptedText(findTestObject('LinkedIn/Page_Sign Up  LinkedIn/input_Password (6 or more characters)_password'), 
+    'aeHFOx8jV/A=')
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Login'))
-
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_CURA Healthcare_menu-toggle'))
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Logout'))
+WebUI.click(findTestObject('LinkedIn/Page_Sign Up  LinkedIn/btn_Agree'))
 
