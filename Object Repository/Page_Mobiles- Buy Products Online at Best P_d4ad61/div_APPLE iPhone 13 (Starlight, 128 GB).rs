@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_APPLE iPhone 13 (Starlight, 128 GB)</name>
+   <tag></tag>
+   <elementGuidId>f19b23bb-42ed-4964-83c3-c2ad77d85d11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div[3]/div/div[2]/div[8]/div/div/div/a/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9c547f80-af23-490f-8e5a-881ea949bd75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_4rR01T</value>
+      <webElementGuid>427de1e6-a700-4130-bd92-4a3c2ea5aeec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>APPLE iPhone 13 (Starlight, 128 GB)</value>
+      <webElementGuid>0e2e5721-a323-4dda-9b62-81d66327928e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;_36fx1h _6t1WkM _3HqJxg&quot;]/div[@class=&quot;_1YokD2 _2GoDe3&quot;]/div[@class=&quot;_1YokD2 _3Mn1Gg&quot;]/div[@class=&quot;_1AtVbE col-12-12&quot;]/div[@class=&quot;_13oc-S&quot;]/div[1]/div[@class=&quot;_2kHMtA&quot;]/a[@class=&quot;_1fQZEK&quot;]/div[@class=&quot;_3pLy-c row&quot;]/div[@class=&quot;col col-7-12&quot;]/div[@class=&quot;_4rR01T&quot;]</value>
+      <webElementGuid>4cee19a4-9ca7-4a6a-93f3-fd29b146ead9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div[3]/div/div[2]/div[8]/div/div/div/a/div[2]/div/div</value>
+      <webElementGuid>5ed5d00e-fc39-4321-a85c-707a75295893</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Compare'])[7]/following::div[5]</value>
+      <webElementGuid>d3fa32d2-0b85-45a1-9054-e2b59cf65eff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Off on Exchange'])[4]/following::div[16]</value>
+      <webElementGuid>7edb28c8-40ed-49dc-83b0-8cfce0fd41c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='&amp;'])[7]/preceding::div[2]</value>
+      <webElementGuid>ef48e716-5fec-40fa-8146-a52ef14b05f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A15 Bionic Chip Processor'])[1]/preceding::div[3]</value>
+      <webElementGuid>0c20fed7-1ef9-4812-afdd-fee5109c5354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='APPLE iPhone 13 (Starlight, 128 GB)']/parent::*</value>
+      <webElementGuid>b8b37035-0220-406e-8df6-4eb7e1315fd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div/a/div[2]/div/div</value>
+      <webElementGuid>be4f326a-828e-4858-9a66-797021579d3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'APPLE iPhone 13 (Starlight, 128 GB)' or . = 'APPLE iPhone 13 (Starlight, 128 GB)')]</value>
+      <webElementGuid>f18bfdb2-971c-4ae1-9c0c-a4b96108d5a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

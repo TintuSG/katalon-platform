@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Place Order</name>
+   <tag></tag>
+   <elementGuidId>1305c07c-77b7-44a5-98cc-63081eff2e09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button._2KpZ6l._2ObVJD._3AWRsL</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div[2]/div/div/div/div/div[4]/div/form/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a8f89ee6-44ba-4d28-8135-f44ff24bd441</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_2KpZ6l _2ObVJD _3AWRsL</value>
+      <webElementGuid>f869314a-3698-42ed-aa17-85e8286af545</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Place Order</value>
+      <webElementGuid>3aba4366-6233-4bfe-869f-59afbcd3d381</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;_1Er18h&quot;]/div[@class=&quot;_6t1WkM _3HqJxg&quot;]/div[@class=&quot;_1YokD2 _2GoDe3 col-12-12&quot;]/div[@class=&quot;_1YokD2 _3Mn1Gg&quot;]/div[@class=&quot;_1YokD2 _3Mn1Gg col-12-12&quot;]/div[@class=&quot;_1AtVbE col-12-12 _78xt5Y&quot;]/div[@class=&quot;VUS-tD eBV0fb&quot;]/form[1]/button[@class=&quot;_2KpZ6l _2ObVJD _3AWRsL&quot;]</value>
+      <webElementGuid>ca282653-6737-4f3d-b537-e927d26d1e09</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div[2]/div/div/div/div/div[4]/div/form/button</value>
+      <webElementGuid>14464e1a-ecc6-4171-958e-406ebaed3637</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[1]/following::button[1]</value>
+      <webElementGuid>2afead35-249d-4778-8c98-7640591fcede</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save for later'])[1]/following::button[1]</value>
+      <webElementGuid>7b31b9b7-cce1-4da0-b27a-6182a200a70b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price details'])[1]/preceding::button[1]</value>
+      <webElementGuid>8c1a60ab-81af-49db-87e8-e269c0a5d72c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button</value>
+      <webElementGuid>4df8529d-7b3e-4d85-a4c4-a78337876b95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Place Order' or . = 'Place Order')]</value>
+      <webElementGuid>01a98ff4-4516-4bcd-b94e-31b57f907004</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
