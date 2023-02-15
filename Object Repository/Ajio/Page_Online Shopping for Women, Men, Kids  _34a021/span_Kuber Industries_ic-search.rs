@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Kuber Industries_ic-search</name>
+   <tag></tag>
+   <elementGuidId>b72deb04-780f-460a-bfad-deb03a636e16</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='appContainer']/div/div/header/div[3]/div[2]/form/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ic-search</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ed0aaafe-69da-4e73-994c-667fdf5a898b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ic-search</value>
+      <webElementGuid>6e5bbec8-4027-40f4-b905-435ba8b444de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;appContainer&quot;)/div[@class=&quot;false header-wrapper&quot;]/div[@class=&quot;main-header dodShadow&quot;]/header[1]/div[@class=&quot;header-right&quot;]/div[@class=&quot;scb&quot;]/form[1]/div[@class=&quot;searchbar-view&quot;]/button[@class=&quot;rilrtl-button&quot;]/span[@class=&quot;ic-search&quot;]</value>
+      <webElementGuid>1d3d7d2f-14ef-489f-9c46-c14d777bf0e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='appContainer']/div/div/header/div[3]/div[2]/form/div/button/span</value>
+      <webElementGuid>c2d22ebc-be8c-46ae-8c4e-605cfc8abd3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>10d33067-070e-4427-8e6d-a4c1dd9c587d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
