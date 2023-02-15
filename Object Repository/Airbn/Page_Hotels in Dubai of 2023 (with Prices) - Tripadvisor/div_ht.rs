@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ht</name>
+   <tag></tag>
+   <elementGuidId>a9a992ac-5298-4ad1-83d7-7261c2bd4760</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.organic > div.rrpmJ.z.o > div.qeraN._T.qMONr.iOIte.iJfMg.GuiKl.rcibp.FKwyn > div.yJIls.z.P0.M0 > header.PKlBC.P0.M0._T > div.jhsNf.N.G > div.jsTLT.F.K > a.BMQDV._F.G-.wSSLS.SwZTJ.FGwzt.ukgoS > div.nBrpc.Wd.o.W</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='lithium-root']/main/div[3]/div/div/div[2]/div/div/div[2]/div[3]/div/div[3]/span/span/span/div/div/div[2]/header/div/div/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1b3758d2-d80f-489d-9044-480a420d02bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nBrpc Wd o W</value>
+      <webElementGuid>19d3bbf1-dd05-4754-a24b-ded982b54afd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1. The First Collection at Jumeirah Village Circle</value>
+      <webElementGuid>566222b4-f6a1-47b3-8ab2-2363bcbbb515</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lithium-root&quot;)/main[1]/div[3]/div[@class=&quot;QvCXh mvTrV cyIij fluiI&quot;]/div[@class=&quot;ZOqSq e&quot;]/div[@class=&quot;zamsQ&quot;]/div[@class=&quot;kmhUe iiGAz&quot;]/div[@class=&quot;seiBA _T&quot;]/div[@class=&quot;LvzMf _T&quot;]/div[3]/div[@class=&quot;EJmPL _T bADWL _T PnJDh&quot;]/div[@class=&quot;NXAUb _T&quot;]/span[1]/span[@class=&quot;listItem&quot;]/span[@class=&quot;organic&quot;]/div[@class=&quot;rrpmJ z o&quot;]/div[@class=&quot;qeraN _T qMONr iOIte iJfMg GuiKl rcibp FKwyn&quot;]/div[@class=&quot;yJIls z P0 M0&quot;]/header[@class=&quot;PKlBC P0 M0 _T&quot;]/div[@class=&quot;jhsNf N G&quot;]/div[@class=&quot;jsTLT F K&quot;]/a[@class=&quot;BMQDV _F G- wSSLS SwZTJ FGwzt ukgoS&quot;]/div[@class=&quot;nBrpc Wd o W&quot;]</value>
+      <webElementGuid>31d72458-7791-45e1-926e-be073dee9e7f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='lithium-root']/main/div[3]/div/div/div[2]/div/div/div[2]/div[3]/div/div[3]/span/span/span/div/div/div[2]/header/div/div/a/div</value>
+      <webElementGuid>360fb517-862f-456f-9944-3e7e7e88d507</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTownsVeryOwnTravel'])[1]/following::div[19]</value>
+      <webElementGuid>c92a5224-925f-4871-8346-ee5cbff753ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹16,898'])[1]/preceding::div[1]</value>
+      <webElementGuid>63b5af25-0c66-40a4-aeb0-4757e3eab2f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹15,412'])[1]/preceding::div[1]</value>
+      <webElementGuid>98fac162-ef5e-4955-aaa4-2852804a75ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1.']/parent::*</value>
+      <webElementGuid>b15280d1-2497-4f0a-ae70-2726ffa4aecd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span/span/span/div/div/div[2]/header/div/div/a/div</value>
+      <webElementGuid>c056b497-0421-4a96-91eb-953b65ef9be8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1. The First Collection at Jumeirah Village Circle' or . = '1. The First Collection at Jumeirah Village Circle')]</value>
+      <webElementGuid>eabc8239-abd2-48d9-981d-fb9cb4bba756</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

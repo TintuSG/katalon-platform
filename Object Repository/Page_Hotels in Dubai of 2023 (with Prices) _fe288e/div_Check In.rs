@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Check In</name>
+   <tag></tag>
+   <elementGuidId>85a335d9-62db-4b8c-bf21-da5c94b8b38c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.Dcjdi._Z.z.q._T</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>38cbe3a1-8883-470e-864c-e0080f4340c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Dcjdi _Z z q _T</value>
+      <webElementGuid>4d3c55d7-facb-4712-a780-c2b7b01c156e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test-target</name>
+      <type>Main</type>
+      <value>picker-CHECKIN</value>
+      <webElementGuid>310101da-1072-4738-b178-4e8c8a4db6ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-automation</name>
+      <type>Main</type>
+      <value>checkin</value>
+      <webElementGuid>91f346b5-eb52-46a7-96a6-435ff0795954</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Check In— / — / —</value>
+      <webElementGuid>0c858282-53da-458c-864b-dab096fde3e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PERSISTENT_TRIP_SEARCH_BAR&quot;)/div[@class=&quot;XsnPO JBJem&quot;]/div[@class=&quot;GqoPg q c&quot;]/div[@class=&quot;BDSqi WSjiQ&quot;]/div[@class=&quot;SbIdQ Vt _X Wh V Cj dFWdS&quot;]/button[@class=&quot;RFOih _Z _S Q z Wc Wh _J gUFiK&quot;]/div[@class=&quot;Dcjdi _Z z q _T&quot;]</value>
+      <webElementGuid>a2f9d7ae-6aec-45bb-99bd-4137b6b2b0b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PERSISTENT_TRIP_SEARCH_BAR']/div/div/div/div/button/div</value>
+      <webElementGuid>581a225f-ef7b-4a61-ae68-9cd3ab43c004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter dates to find the best prices'])[1]/following::div[10]</value>
+      <webElementGuid>53585e7b-0a1a-43b8-89c3-0178f075b2b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='and Places to Stay'])[1]/following::div[11]</value>
+      <webElementGuid>599f1358-73f4-498f-ad1a-58cf2755ad57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div</value>
+      <webElementGuid>25bc8830-3693-43d8-8426-42d054095869</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Check In— / — / —' or . = 'Check In— / — / —')]</value>
+      <webElementGuid>093aa79f-1f26-4a5e-9f02-7146009231be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

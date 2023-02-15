@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Update</name>
+   <tag></tag>
+   <elementGuidId>7891bb2b-e24f-4fa0-866c-241cfb98e881</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ui_button.primary.fullwidth</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='BODY_BLOCK_JQUERY_REFLOW']/div[5]/div[2]/div/div[2]/div/div[4]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>dc6846eb-9948-4667-898f-9a58e72d3040</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui_button primary fullwidth</value>
+      <webElementGuid>6d95f218-a60e-4efb-8973-e980309386e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Update </value>
+      <webElementGuid>38d65bfb-90bf-4545-859e-e9b6435e70e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;BODY_BLOCK_JQUERY_REFLOW&quot;)/div[@class=&quot;KWdaU Za f e&quot;]/div[2]/div[@class=&quot;SKCqA _T R2 f e&quot;]/div[2]/div[@class=&quot;dHAPm S4 z&quot;]/div[@class=&quot;Mf&quot;]/button[@class=&quot;ui_button primary fullwidth&quot;]</value>
+      <webElementGuid>2ba20748-77b9-433a-8a67-58190b6c9d89</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='BODY_BLOCK_JQUERY_REFLOW']/div[5]/div[2]/div/div[2]/div/div[4]/button</value>
+      <webElementGuid>fa1182cb-3f71-4750-817c-faca92c4b484</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Children'])[1]/following::button[1]</value>
+      <webElementGuid>16fef26b-72be-4161-a6ed-c9f576d9aa38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adults'])[1]/following::button[3]</value>
+      <webElementGuid>5dcf7f86-48df-497b-8117-92b13bb2b758</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Update']/parent::*</value>
+      <webElementGuid>340113aa-016d-4397-a097-d053d7d9136f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>dfcaf225-c634-44f6-a1ba-66b80eb4f3ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Update ' or . = 'Update ')]</value>
+      <webElementGuid>afcbfd37-f4ce-4c56-8db7-894a111240a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
