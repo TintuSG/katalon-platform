@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Back to Katalon Shop</name>
+   <tag></tag>
+   <elementGuidId>8badaebf-1f81-4a48-8f8e-4d5bfeee63ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='backtoblog']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#backtoblog</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ef06f553-c235-406a-8504-034f06f720d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>backtoblog</value>
+      <webElementGuid>092397f9-f6c1-4d4c-97b8-76ac75165dc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+		← Back to Katalon Shop	</value>
+      <webElementGuid>1e08cafd-c621-401f-b875-49dcda81128c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;backtoblog&quot;)</value>
+      <webElementGuid>0126c502-cc4a-47d4-a5fa-3763e44d14c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='backtoblog']</value>
+      <webElementGuid>1e95d893-1e10-428a-8a71-febe85a19052</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='login']/p[2]</value>
+      <webElementGuid>586581ff-3155-42c8-9c46-9ad21a4535bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lost your password?'])[1]/following::p[1]</value>
+      <webElementGuid>351a16dd-11df-42ea-a443-24a29a3eab21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember Me'])[1]/following::p[3]</value>
+      <webElementGuid>c99402c9-17ff-4985-8925-d292e4f0149f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'backtoblog', '&quot;', ')')])[1]/preceding::p[1]</value>
+      <webElementGuid>fe3e2695-2645-4e9e-99d4-3050ceb7d914</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>5fa8cf56-fb35-4237-95f2-757b4f315280</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'backtoblog' and (text() = '
+		← Back to Katalon Shop	' or . = '
+		← Back to Katalon Shop	')]</value>
+      <webElementGuid>9da88dc0-a928-4950-9ded-74327ca75164</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
