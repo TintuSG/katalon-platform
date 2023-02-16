@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Logout</name>
+   <name>a_Cart</name>
    <tag></tag>
-   <elementGuidId>6f3e351c-a758-4ab8-ab53-f81ae86e5494</elementGuidId>
+   <elementGuidId>08e17eba-f8f3-4a7a-b263-a1e5192f2f08</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='CURA Healthcare Service'])[2]/preceding::a[1]</value>
+         <value>//div[@id='primary-menu']/ul/li/a</value>
       </entry>
       <entry>
          <key>CSS</key>
+         <value>li.page_item.page-item-8.focus > a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,126 +22,110 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>e13bc01e-13fe-406a-9c32-c36f58f3b47e</webElementGuid>
+      <webElementGuid>dfadeba0-40cb-40ac-ac7f-f2080dfa05fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>authenticate.php?logout</value>
-      <webElementGuid>8283268e-5463-47a2-ba3b-dc6209149703</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onclick</name>
-      <type>Main</type>
-      <value>$('#menu-close').click();</value>
-      <webElementGuid>6f87e231-8fe1-46ea-9cf5-d09a03505c66</webElementGuid>
+      <value>https://cms.demo.katalon.com/cart/</value>
+      <webElementGuid>bda915a6-4572-4ac9-882a-898afa8b895f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Logout</value>
-      <webElementGuid>9e3cdb65-e982-417b-aca8-49927a6b3a78</webElementGuid>
+      <value>Cart</value>
+      <webElementGuid>ba6da089-de87-4c0d-b0fa-fa60e22fc54a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;sidebar-wrapper&quot;)/ul[@class=&quot;sidebar-nav&quot;]/li[5]/a[1]</value>
-      <webElementGuid>75142f3a-fc04-49e8-9582-125cca0849c6</webElementGuid>
+      <value>id(&quot;primary-menu&quot;)/ul[@class=&quot;nav-menu&quot;]/li[@class=&quot;page_item page-item-8 focus&quot;]/a[1]</value>
+      <webElementGuid>f8d57df6-1e05-4a2e-80af-b3e4647c4213</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>(//a[@onclick=&quot;$('#menu-close').click();&quot;])[5]</value>
-      <webElementGuid>de7512c1-87d8-4bb2-af14-891e0750f2a3</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//nav[@id='sidebar-wrapper']/ul/li[5]/a</value>
-      <webElementGuid>e23a8ae5-a802-4ede-abb3-3d11a8e06b5b</webElementGuid>
+      <value>//div[@id='primary-menu']/ul/li/a</value>
+      <webElementGuid>4426dfe7-5372-4bff-883e-aa33078ecc13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Logout')]</value>
-      <webElementGuid>32fb9561-9ccf-49a8-a967-0da8a84e4958</webElementGuid>
+      <value>//a[contains(text(),'Cart')]</value>
+      <webElementGuid>100b141d-27fe-484e-8def-0a2246aad358</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/following::a[1]</value>
-      <webElementGuid>25281912-04c5-4a2c-b468-fcc6ea078b4b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu'])[1]/following::a[1]</value>
+      <webElementGuid>6cdbf7bc-7b64-4b0b-99f6-2083b17745a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='History'])[1]/following::a[2]</value>
-      <webElementGuid>fa6326fd-6bb4-4a68-b4d7-52617a83a49f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon Shop'])[1]/following::a[1]</value>
+      <webElementGuid>15ee0a48-6442-43c5-ae6a-4c916b2eb1ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='CURA Healthcare Service'])[2]/preceding::a[1]</value>
-      <webElementGuid>75dea9df-e757-4e0b-a95f-7ac09be1573f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout'])[1]/preceding::a[1]</value>
+      <webElementGuid>8c5caf66-eec4-4900-9394-75c3d0b729f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='We Care About Your Health'])[1]/preceding::a[1]</value>
-      <webElementGuid>830b0929-6613-49a6-9e4c-09e4813fdab7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My account'])[1]/preceding::a[2]</value>
+      <webElementGuid>8d123f38-9caf-4e35-aad9-d8da1d88828a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Logout']/parent::*</value>
-      <webElementGuid>2f2e4663-f9de-45a8-a261-b1fa90bfe29b</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Cart']/parent::*</value>
+      <webElementGuid>79e8cf6c-459c-4e80-ad21-d2f1672d2fd0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'authenticate.php?logout')]</value>
-      <webElementGuid>950eb59d-c659-4595-be49-e3005911b8c3</webElementGuid>
+      <value>//a[contains(@href, 'https://cms.demo.katalon.com/cart/')]</value>
+      <webElementGuid>a2ca5b87-2aa1-4479-aca2-c3c714cf9d0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[5]/a</value>
-      <webElementGuid>ffd562af-f0f1-4b4b-9e83-c94272cef193</webElementGuid>
+      <value>//li/a</value>
+      <webElementGuid>8b1c0724-c1f8-4bc5-a6db-21b4c9a96858</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'authenticate.php?logout' and (text() = 'Logout' or . = 'Logout')]</value>
-      <webElementGuid>ef7ce5ec-8367-4ba3-adf9-210d184022a1</webElementGuid>
+      <value>//a[@href = 'https://cms.demo.katalon.com/cart/' and (text() = 'Cart' or . = 'Cart')]</value>
+      <webElementGuid>1fa11548-a822-46f1-aa67-31e248866445</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
