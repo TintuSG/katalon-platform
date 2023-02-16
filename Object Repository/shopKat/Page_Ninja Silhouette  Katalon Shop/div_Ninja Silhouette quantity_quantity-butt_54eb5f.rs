@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='product-25']/div[2]/form/div/div/div</value>
+         <value>//form/div/div/div</value>
       </entry>
       <entry>
          <key>CSS</key>

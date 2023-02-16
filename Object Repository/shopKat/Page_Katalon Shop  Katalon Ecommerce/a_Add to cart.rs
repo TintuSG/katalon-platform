@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//main[@id='main']/div[2]/ul/li[2]/div/a[2]</value>
+         <value>(//a[contains(text(),'Add to cart')])[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
