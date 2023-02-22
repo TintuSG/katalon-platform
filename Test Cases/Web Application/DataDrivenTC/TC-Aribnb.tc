@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-Aribnb</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0aab53b-d63b-4024-af40-10ad93dcd633</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>696c57b9-c4e5-4c1c-876f-52e950e6fce7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'japan'</defaultValue>
+      <description></description>
+      <id>696c57b9-c4e5-4c1c-876f-52e950e6fce7</id>
+      <masked>false</masked>
+      <name>place</name>
+   </variable>
+</TestCaseEntity>
