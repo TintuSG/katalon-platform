@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_There was a problem</name>
+   <tag></tag>
+   <elementGuidId>1ae216fe-a2fe-4050-a1c7-0d12f753fda7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h4.a-alert-heading</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='auth-error-message-box']/div/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>a5a26adc-fcd5-4331-82f7-fe706cedcc27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-alert-heading</value>
+      <webElementGuid>ccce3b66-b57a-4d1d-bf69-f0eb0daac61b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>There was a problem</value>
+      <webElementGuid>1a2cf036-7f9f-4853-ae6f-511607b09a62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;auth-error-message-box&quot;)/div[@class=&quot;a-box-inner a-alert-container&quot;]/h4[@class=&quot;a-alert-heading&quot;]</value>
+      <webElementGuid>0b9f62ab-3578-4d31-92bc-a8b7005b6c7f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='auth-error-message-box']/div/h4</value>
+      <webElementGuid>7de82d7a-c60c-484e-af48-5e0fee820d5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your password is incorrect'])[1]/preceding::h4[1]</value>
+      <webElementGuid>bc7332d4-d50c-4595-806d-266b30447ded</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/preceding::h4[1]</value>
+      <webElementGuid>318b8adc-6e57-45f4-baf6-c5c205dd233f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='There was a problem']/parent::*</value>
+      <webElementGuid>8a383b1b-ca71-4757-a6e0-e066c67dd640</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>cd2e4cb9-99b2-42a8-8f99-2f53319e71da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'There was a problem' or . = 'There was a problem')]</value>
+      <webElementGuid>e82a319c-d4fe-402e-b73b-00440f485eca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
