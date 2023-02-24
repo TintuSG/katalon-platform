@@ -16,10 +16,16 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import org.sikuli.scripts.Screen as Screen
+import org.sikuli.scripts.Key as Key
+import org.sikuli.scripts.Region as Region
+
 
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.ajio.com/')
+Screen screenobj=new Screen()
+
 
 WebUI.setText(findTestObject('Object Repository/Web Application-Object Repository/Ajio/Page_Online Shopping for Women, Men, Kids  _34a021/input_Kuber Industries_searchVal'), 
     'jeans')
