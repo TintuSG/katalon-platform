@@ -21,22 +21,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable
 
 public class PgLoginKeywords {
-	
+
 	@Keyword
+	
 	def AppLogin() {
+		
 		WebUI.openBrowser('')
-		
+
 		WebUI.maximizeWindow()
-		
+
 		WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
-		
+
 		WebUI.click(findTestObject('Page_CURA Healthcare Service/btnMakeAppointment'))
-		
+
 		WebUI.setText(findTestObject('Page_CURA Healthcare Service/txtuUsername'), 'John Doe')
-		
+
 		WebUI.setEncryptedText(findTestObject('Page_CURA Healthcare Service/txtPassword'), 'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
-		
+
 		WebUI.click(findTestObject('Page_CURA Healthcare Service/btnLogin'))
-		
 	}
 }
